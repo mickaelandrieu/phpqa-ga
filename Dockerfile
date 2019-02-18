@@ -1,7 +1,7 @@
 FROM php:7.3-alpine
 
-LABEL "com.github.actions.name"="phpqa"
-LABEL "com.github.actions.description"="phpqa"
+LABEL "com.github.actions.name"="EdgedesignCZ PHPQA tool suite"
+LABEL "com.github.actions.description"="Analyze PHP code with one command"
 LABEL "com.github.actions.icon"="check"
 LABEL "com.github.actions.color"="blue"
 
